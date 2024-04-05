@@ -1,0 +1,2 @@
+void setupRemote();
+void loopRemote();
